@@ -5,8 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Hosting.WindowsServices;
-using Microsoft.Extensions.Hosting.Systemd;
+
 
 namespace RunAsABackgroundTask
 {
